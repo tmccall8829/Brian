@@ -1,0 +1,7 @@
+Some ideas for projects:
+
+1. Realistic model of a Betz cell (which is basically just a really big pyramidal neuron)
+2. Using evolutionary algorithms (neuroevolution) with realistic models of neurons to optimize
+network activity
+3. Running small network models on Arduinos
+  --> connect cell outputs to pin connectors to measure voltages directly?
